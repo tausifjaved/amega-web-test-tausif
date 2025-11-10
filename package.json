@@ -1,0 +1,30 @@
+{
+  "name": "fundix-cypress-tests",
+  "version": "1.0.0",
+  "description": "Comprehensive Cypress automation tests for Fundix landing page",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run",
+    "cypress:run:headed": "cypress run --headed",
+    "test:chrome": "cypress run --browser chrome",
+    "test:firefox": "cypress run --browser firefox",
+    "test:edge": "cypress run --browser edge",
+    "lint": "eslint cypress/**/*.js",
+    "lint:fix": "eslint cypress/**/*.js --fix"
+  },
+  "keywords": [
+    "cypress",
+    "automation",
+    "testing",
+    "e2e"
+  ],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.6.0",
+    "eslint": "^9.39.1",
+    "eslint-plugin-cypress": "^5.2.0",
+    "globals": "^16.5.0"
+  }
+}
