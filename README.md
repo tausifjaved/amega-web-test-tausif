@@ -2,6 +2,12 @@
 
 Automated end-to-end test suite for the Fundix landing page using Cypress.
 
+## Screenshot
+
+![Cypress Test Runner](screenshots/cypress-test-runner.png)
+
+*Cypress test runner showing all tests passing for the Fundix landing page*
+
 ## Quick Start
 
 ```bash
