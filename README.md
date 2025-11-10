@@ -4,7 +4,7 @@ Automated end-to-end test suite for the Fundix landing page using Cypress.
 
 ## Screenshot
 
-![Cypress Test Runner](screenshots/cypress-test-runner.png)
+> **Note:** Add your Cypress test runner screenshot to `screenshots/cypress-test-runner.png` to display it here.
 
 *Cypress test runner showing all tests passing for the Fundix landing page*
 
